@@ -47,7 +47,7 @@ SSH into the device after it has booted.
 Example:
 
 ```bash
-ssh david@<pi-address>
+ssh pi@<pi-address>
 ```
 
 Replace `<pi-address>` with the hostname or IP address of the Raspberry Pi.
